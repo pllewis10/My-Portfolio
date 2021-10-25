@@ -102,4 +102,5 @@ a:active {
 hr {
   border-top: 2px dashed #491409;
   width: 600px;
+  height: 2px;
 }
