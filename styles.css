@@ -28,6 +28,7 @@ p {
 header, footer {
   background-color: #98C1D9;
   color: #491409;
+  height: 120px;
 }
 
 main {
@@ -102,5 +103,4 @@ a:active {
 hr {
   border-top: 2px dashed #491409;
   width: 600px;
-  height: 2px;
 }
