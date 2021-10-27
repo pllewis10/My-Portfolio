@@ -1,3 +1,3 @@
 # My-Portfolio
 
-This is my Portfolio Webpage I have created for Thinkful
+Welcome to my Portfolio Webpage I have created for Thinkful
